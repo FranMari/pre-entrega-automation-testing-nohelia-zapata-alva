@@ -27,8 +27,10 @@ transformando errores en oportunidades de aprendizaje.
    ```bash
    git clone https://github.com/FranMari/pre-entrega-automation-testing-nohelia-zapata-alva.git
 
-⚙️ Instalación rápida
+## ⚙️ Instalación rápida
+
 pip install selenium pytest pytest-html
 
-🧪 Cómo ejecutar los tests
+## 🧪 Cómo ejecutar los tests
+
 pytest testy.py -v --html=reporte.html
