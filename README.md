@@ -14,8 +14,11 @@ Este proyecto forma parte de la preentrega para la materia de Testing Automatiza
 ## 📂 Estructura del proyecto
 
 ├── testy.py # Archivo principal de tests 
+
 ├── preentrega.py # Funciones auxiliares: login, catálogo, carrito 
+
 ├── reporte.html # Reporte generado por pytest-html 
+
 ├── README.md # Este archivo
 
 ## 🛠️ Tecnologías utilizadas
