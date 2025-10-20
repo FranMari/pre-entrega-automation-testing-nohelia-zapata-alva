@@ -1,6 +1,6 @@
 # Preentrega: Automatización con Selenium y Pytest 🐾
 
-Este proyecto forma parte de la preentrega. Utiliza **Selenium** y **Pytest** para automatizar pruebas en una aplicación web ficticia, con narrativa educativa protagonizada por Brandon el perro 🐶.
+Este proyecto forma parte de la preentrega. Utiliza **Selenium** y **Pytest** para automatizar pruebas en una aplicación web.
 
 ## 📚 Objetivos del proyecto
 
@@ -25,7 +25,7 @@ transformando errores en oportunidades de aprendizaje.
 1. Cloná el repositorio:
 
 
-   git clone https://github.com/FranMari/pre-entrega-automation-testing-nohelia-zapata-alva.git
+git clone https://github.com/FranMari/pre-entrega-automation-testing-nohelia-zapata-alva.git
 
 ## ⚙️ Instalación rápida
 
