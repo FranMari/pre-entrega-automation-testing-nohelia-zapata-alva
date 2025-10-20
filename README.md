@@ -37,4 +37,4 @@ pytest testy.py -v --html=reporte.html
 
 ## 📸 Captura del reporte
 
-![Reporte de pruebas](img/reporte.png)
+![Reporte de pruebas](reporte.png)
