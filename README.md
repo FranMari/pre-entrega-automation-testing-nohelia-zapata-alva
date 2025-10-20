@@ -24,7 +24,7 @@ transformando errores en oportunidades de aprendizaje.
 
 1. Cloná el repositorio:
 
-   ```bash
+
    git clone https://github.com/FranMari/pre-entrega-automation-testing-nohelia-zapata-alva.git
 
 ## ⚙️ Instalación rápida
