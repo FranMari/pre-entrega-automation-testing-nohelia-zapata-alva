@@ -34,3 +34,7 @@ pip install selenium pytest pytest-html
 ## 🧪 Cómo ejecutar los tests
 
 pytest testy.py -v --html=reporte.html
+
+## 📸 Captura del reporte
+
+![Reporte de pruebas](img/Captura de pantalla 2025-10-20 000001.png)
